@@ -1,0 +1,1052 @@
+{
+  "buildings": [
+    {
+      "id": 12,
+      "tech_cost": 0,
+      "name": "Barracks"
+    },
+    {
+      "id": 45,
+      "tech_cost": 0,
+      "name": "Dock"
+    },
+    {
+      "id": 49,
+      "tech_cost": 0,
+      "name": "Siege Workshop"
+    },
+    {
+      "id": 50,
+      "tech_cost": 0,
+      "name": "Farm"
+    },
+    {
+      "id": 68,
+      "tech_cost": 0,
+      "name": "Mill"
+    },
+    {
+      "id": 70,
+      "tech_cost": 0,
+      "name": "House"
+    },
+    {
+      "id": 71,
+      "tech_cost": 0,
+      "name": "Town Center 2"
+    },
+    {
+      "id": 72,
+      "tech_cost": 0,
+      "name": "Palisade Wall"
+    },
+    {
+      "id": 79,
+      "tech_cost": 0,
+      "name": "Watch Tower"
+    },
+    {
+      "id": 82,
+      "tech_cost": 0,
+      "name": "Castle"
+    },
+    {
+      "id": 84,
+      "tech_cost": 0,
+      "name": "Market"
+    },
+    {
+      "id": 87,
+      "tech_cost": 0,
+      "name": "Archery Range"
+    },
+    {
+      "id": 101,
+      "tech_cost": 0,
+      "name": "Stable"
+    },
+    {
+      "id": 103,
+      "tech_cost": 0,
+      "name": "Blacksmith"
+    },
+    {
+      "id": 104,
+      "tech_cost": 0,
+      "name": "Monastery"
+    },
+    {
+      "id": 109,
+      "tech_cost": 0,
+      "name": "Town Center"
+    },
+    {
+      "id": 117,
+      "tech_cost": 1,
+      "name": "Stone Wall"
+    },
+    {
+      "id": 155,
+      "tech_cost": 1,
+      "name": "Fortified Wall"
+    },
+    {
+      "id": 199,
+      "tech_cost": 0,
+      "name": "Fish Trap"
+    },
+    {
+      "id": 209,
+      "tech_cost": 0,
+      "name": "University"
+    },
+    {
+      "id": 234,
+      "tech_cost": 1,
+      "name": "Guard Tower"
+    },
+    {
+      "id": 235,
+      "tech_cost": 1,
+      "name": "Keep"
+    },
+    {
+      "id": 236,
+      "tech_cost": 2,
+      "name": "Bombard Tower"
+    },
+    {
+      "id": 276,
+      "tech_cost": 0,
+      "name": "Wonder"
+    },
+    {
+      "id": 487,
+      "tech_cost": 1,
+      "name": "Gate"
+    },
+    {
+      "id": 562,
+      "tech_cost": 0,
+      "name": "Lumber Camp"
+    },
+    {
+      "id": 584,
+      "tech_cost": 0,
+      "name": "Mining Camp"
+    },
+    {
+      "id": 598,
+      "tech_cost": 0,
+      "name": "Outpost"
+    },
+    {
+      "id": 621,
+      "tech_cost": 0,
+      "name": "Town Center 1x"
+    },
+    {
+      "id": 792,
+      "tech_cost": 0,
+      "name": "Palisade Gate"
+    },
+    {
+      "id": 1021,
+      "tech_cost": 0,
+      "name": "Feitoria"
+    },
+    {
+      "id": 1251,
+      "tech_cost": 0,
+      "name": "Krepost"
+    },
+    {
+      "id": 1665,
+      "tech_cost": 0,
+      "name": "Donjon"
+    }
+  ],
+  "units": [
+    {
+      "id": 4,
+      "tech_cost": 1,
+      "name": "Archer",
+      "building": "Archery Range"
+    },
+    {
+      "id": 5,
+      "tech_cost": 4,
+      "name": "Hand Cannoneer",
+      "building": "Archery Range"
+    },
+    {
+      "id": 6,
+      "tech_cost": 3,
+      "name": "Elite Skirmisher",
+      "building": "Archery Range"
+    },
+    {
+      "id": 7,
+      "tech_cost": 1,
+      "name": "Skirmisher",
+      "building": "Archery Range"
+    },
+    {
+      "id": 13,
+      "tech_cost": 0,
+      "name": "Fishing Ship",
+      "building": "Dock"
+    },
+    {
+      "id": 17,
+      "tech_cost": 0,
+      "name": "Trade Cog",
+      "building": "Dock"
+    },
+    {
+      "id": 21,
+      "tech_cost": 0,
+      "name": "War Galley",
+      "building": "Dock"
+    },
+    {
+      "id": 24,
+      "tech_cost": 3,
+      "name": "Crossbowman",
+      "building": "Archery Range"
+    },
+    {
+      "id": 36,
+      "tech_cost": 8,
+      "name": "Bombard Cannon",
+      "building": "Siege Workshop"
+    },
+    {
+      "id": 38,
+      "tech_cost": 3,
+      "name": "Knight",
+      "building": "Stable"
+    },
+    {
+      "id": 39,
+      "tech_cost": 3,
+      "name": "Cavalry Archer",
+      "building": "Archery Range"
+    },
+    {
+      "id": 42,
+      "tech_cost": 0,
+      "name": "Trebuchet",
+      "building": "Castle"
+    },
+    {
+      "id": 74,
+      "tech_cost": 0,
+      "name": "Militia",
+      "building": "Barracks"
+    },
+    {
+      "id": 75,
+      "tech_cost": 2,
+      "name": "Man-at-Arms",
+      "building": "Barracks"
+    },
+    {
+      "id": 77,
+      "tech_cost": 1,
+      "name": "Long Swordsman",
+      "building": "Barracks"
+    },
+    {
+      "id": 83,
+      "tech_cost": 0,
+      "name": "Villager",
+      "building": "Town Center"
+    },
+    {
+      "id": 93,
+      "tech_cost": 1,
+      "name": "Spearman",
+      "building": "Barracks"
+    },
+    {
+      "id": 125,
+      "tech_cost": 0,
+      "name": "Monk",
+      "building": "Monastery"
+    },
+    {
+      "id": 128,
+      "tech_cost": 0,
+      "name": "Trade Cart",
+      "building": "Market"
+    },
+    {
+      "id": 279,
+      "tech_cost": 2,
+      "name": "Scorpion",
+      "building": "Siege Workshop"
+    },
+    {
+      "id": 280,
+      "tech_cost": 1,
+      "name": "Mangonel",
+      "building": "Siege Workshop"
+    },
+    {
+      "id": 283,
+      "tech_cost": 5,
+      "name": "Cavalier",
+      "building": "Stable"
+    },
+    {
+      "id": 329,
+      "tech_cost": 3,
+      "name": "Camel Rider",
+      "building": "Stable"
+    },
+    {
+      "id": 330,
+      "tech_cost": 6,
+      "name": "Heavy Camel Rider",
+      "building": "Stable"
+    },
+    {
+      "id": 331,
+      "tech_cost": 0,
+      "name": "Trebuchet (Packed)",
+      "building": "Castle"
+    },
+    {
+      "id": 358,
+      "tech_cost": 3,
+      "name": "Pikeman",
+      "building": "Barracks"
+    },
+    {
+      "id": 359,
+      "tech_cost": 7,
+      "name": "Halberdier",
+      "building": "Barracks"
+    },
+    {
+      "id": 420,
+      "tech_cost": 3,
+      "name": "Cannon Galleon",
+      "building": "Dock"
+    },
+    {
+      "id": 422,
+      "tech_cost": 4,
+      "name": "Capped Ram",
+      "building": "Siege Workshop"
+    },
+    {
+      "id": 440,
+      "tech_cost": 0,
+      "name": "Petard",
+      "building": "Castle"
+    },
+    {
+      "id": 441,
+      "tech_cost": 7,
+      "name": "Hussar",
+      "building": "Stable"
+    },
+    {
+      "id": 442,
+      "tech_cost": 6,
+      "name": "Galleon",
+      "building": "Dock"
+    },
+    {
+      "id": 448,
+      "tech_cost": 1,
+      "name": "Scout Cavalry",
+      "building": "Stable"
+    },
+    {
+      "id": 473,
+      "tech_cost": 4,
+      "name": "Two-Handed Swordsman",
+      "building": "Barracks"
+    },
+    {
+      "id": 474,
+      "tech_cost": 6,
+      "name": "Heavy Cavalry Archer",
+      "building": "Archery Range"
+    },
+    {
+      "id": 492,
+      "tech_cost": 8,
+      "name": "Arbalester",
+      "building": "Archery Range"
+    },
+    {
+      "id": 527,
+      "tech_cost": 2,
+      "name": "Demolition Ship",
+      "building": "Dock"
+    },
+    {
+      "id": 528,
+      "tech_cost": 5,
+      "name": "Heavy Demolition Ship",
+      "building": "Dock"
+    },
+    {
+      "id": 529,
+      "tech_cost": 2,
+      "name": "Fire Ship",
+      "building": "Dock"
+    },
+    {
+      "id": 532,
+      "tech_cost": 5,
+      "name": "Fast Fire Ship",
+      "building": "Dock"
+    },
+    {
+      "id": 539,
+      "tech_cost": 0,
+      "name": "Galley",
+      "building": "Dock"
+    },
+    {
+      "id": 542,
+      "tech_cost": 7,
+      "name": "Heavy Scorpion",
+      "building": "Siege Workshop"
+    },
+    {
+      "id": 545,
+      "tech_cost": 0,
+      "name": "Transport Ship",
+      "building": "Dock"
+    },
+    {
+      "id": 546,
+      "tech_cost": 3,
+      "name": "Light Cavalry",
+      "building": "Stable"
+    },
+    {
+      "id": 548,
+      "tech_cost": 6,
+      "name": "Siege Ram",
+      "building": "Siege Workshop"
+    },
+    {
+      "id": 550,
+      "tech_cost": 4,
+      "name": "Onager",
+      "building": "Siege Workshop"
+    },
+    {
+      "id": 567,
+      "tech_cost": 5,
+      "name": "Champion",
+      "building": "Barracks"
+    },
+    {
+      "id": 569,
+      "tech_cost": 9,
+      "name": "Paladin",
+      "building": "Stable"
+    },
+    {
+      "id": 588,
+      "tech_cost": 10,
+      "name": "Siege Onager",
+      "building": "Siege Workshop"
+    },
+    {
+      "id": 691,
+      "tech_cost": 5,
+      "name": "Elite Cannon Galleon",
+      "building": "Dock"
+    },
+    {
+      "id": 751,
+      "tech_cost": 5,
+      "name": "Eagle Scout",
+      "building": "Barracks"
+    },
+    {
+      "id": 752,
+      "tech_cost": 5,
+      "name": "Elite Eagle Warrior",
+      "building": "Barracks"
+    },
+    {
+      "id": 753,
+      "tech_cost": 5,
+      "name": "Eagle Warrior",
+      "building": "Barracks"
+    },
+    {
+      "id": 873,
+      "tech_cost": 3,
+      "name": "Elephant Archer",
+      "building": "Archery Range"
+    },
+    {
+      "id": 875,
+      "tech_cost": 4,
+      "name": "Elite Elephant Archer",
+      "building": "Archery Range"
+    },
+    {
+      "id": 1103,
+      "tech_cost": 1,
+      "name": "Fire Galley",
+      "building": "Dock"
+    },
+    {
+      "id": 1104,
+      "tech_cost": 1,
+      "name": "Demolition Raft",
+      "building": "Dock"
+    },
+    {
+      "id": 1105,
+      "tech_cost": 1,
+      "name": "Siege Tower",
+      "building": "Siege Workshop"
+    },
+    {
+      "id": 1132,
+      "tech_cost": 4,
+      "name": "Battle Elephant",
+      "building": "Stable"
+    },
+    {
+      "id": 1134,
+      "tech_cost": 9,
+      "name": "Elite Battle Elephant",
+      "building": "Stable"
+    },
+    {
+      "id": 1258,
+      "tech_cost": 2,
+      "name": "Battering Ram",
+      "building": "Siege Workshop"
+    },
+    {
+      "id": 1370,
+      "tech_cost": 3,
+      "name": "Steppe Lancer",
+      "building": "Stable"
+    },
+    {
+      "id": 1372,
+      "tech_cost": 4,
+      "name": "Elite Steppe Lancer",
+      "building": "Stable"
+    },
+    {
+      "id": 1744,
+      "tech_cost": 4,
+      "name": "Armored Elephant",
+      "building": "Siege Workshop"
+    },
+    {
+      "id": 1746,
+      "tech_cost": 8,
+      "name": "Siege Elephant",
+      "building": "Siege Workshop"
+    },
+    {
+      "id": 1795,
+      "tech_cost": 6,
+      "name": "Dromon",
+      "building": "Siege Workshop"
+    }
+  ],
+  "techs": [
+    {
+      "id": 8,
+      "tech_cost": 1,
+      "name": "Town Watch",
+      "building": "Town Center"
+    },
+    {
+      "id": 12,
+      "tech_cost": 2,
+      "name": "Crop Rotation",
+      "building": "Mill"
+    },
+    {
+      "id": 13,
+      "tech_cost": 5,
+      "name": "Heavy Plow",
+      "building": "Mill"
+    },
+    {
+      "id": 14,
+      "tech_cost": 6,
+      "name": "Horse Collar",
+      "building": "Mill"
+    },
+    {
+      "id": 15,
+      "tech_cost": 2,
+      "name": "Guilds",
+      "building": "Market"
+    },
+    {
+      "id": 17,
+      "tech_cost": 2,
+      "name": "Banking",
+      "building": "Market"
+    },
+    {
+      "id": 19,
+      "tech_cost": 0,
+      "name": "Cartography",
+      "building": "Market"
+    },
+    {
+      "id": 22,
+      "tech_cost": 0,
+      "name": "Loom",
+      "building": "Town Center"
+    },
+    {
+      "id": 23,
+      "tech_cost": 0,
+      "name": "Coinage",
+      "building": "Market"
+    },
+    {
+      "id": 39,
+      "tech_cost": 3,
+      "name": "Husbandry",
+      "building": "Stable"
+    },
+    {
+      "id": 45,
+      "tech_cost": 2,
+      "name": "Faith",
+      "building": "Monastery"
+    },
+    {
+      "id": 47,
+      "tech_cost": 6,
+      "name": "Chemistry",
+      "building": "University"
+    },
+    {
+      "id": 48,
+      "tech_cost": 1,
+      "name": "Caravan",
+      "building": "Market"
+    },
+    {
+      "id": 50,
+      "tech_cost": 1,
+      "name": "Masonry",
+      "building": "University"
+    },
+    {
+      "id": 51,
+      "tech_cost": 2,
+      "name": "Architecture",
+      "building": "University"
+    },
+    {
+      "id": 54,
+      "tech_cost": 3,
+      "name": "Treadmill Crane",
+      "building": "University"
+    },
+    {
+      "id": 55,
+      "tech_cost": 6,
+      "name": "Gold Mining",
+      "building": "Mining Camp"
+    },
+    {
+      "id": 63,
+      "tech_cost": 1,
+      "name": "Keep",
+      "building": "University"
+    },
+    {
+      "id": 64,
+      "tech_cost": 2,
+      "name": "Bombard Tower",
+      "building": "University"
+    },
+    {
+      "id": 65,
+      "tech_cost": 3,
+      "name": "Gillnets",
+      "building": "Dock"
+    },
+    {
+      "id": 67,
+      "tech_cost": 1,
+      "name": "Forging",
+      "building": "Blacksmith",
+      "benefits": ["Barracks","Stable"]
+    },
+    {
+      "id": 68,
+      "tech_cost": 3,
+      "name": "Iron Casting",
+      "building": "Blacksmith",
+      "benefits": ["Barracks","Stable"]
+    },
+    {
+      "id": 74,
+      "tech_cost": 1,
+      "name": "Scale Mail Armor",
+      "building": "Blacksmith",
+      "benefits": ["Barracks",""]
+    },
+    {
+      "id": 75,
+      "tech_cost": 6,
+      "name": "Blast Furnace",
+      "building": "Blacksmith",
+      "benefits": ["Barracks","Stable"]
+    },
+    {
+      "id": 76,
+      "tech_cost": 3,
+      "name": "Chain Mail Armor",
+      "building": "Blacksmith",
+      "benefits": ["Barracks",""]
+    },
+    {
+      "id": 77,
+      "tech_cost": 6,
+      "name": "Plate Mail Armor",
+      "building": "Blacksmith",
+      "benefits": ["Barracks",""]
+    },
+    {
+      "id": 80,
+      "tech_cost": 8,
+      "name": "Plate Barding Armor",
+      "building": "Blacksmith",
+      "benefits": ["Stable",""]
+    },
+    {
+      "id": 81,
+      "tech_cost": 1,
+      "name": "Scale Barding Armor",
+      "building": "Blacksmith",
+      "benefits": ["Stable",""]
+    },
+    {
+      "id": 82,
+      "tech_cost": 3,
+      "name": "Chain Barding Armor",
+      "building": "Blacksmith",
+      "benefits": ["Stable",""]
+    },
+    {
+      "id": 90,
+      "tech_cost": 0,
+      "name": "Tracking",
+      "building": "Barracks"
+    },
+    {
+      "id": 93,
+      "tech_cost": 1,
+      "name": "Ballistics",
+      "building": "University"
+    },
+    {
+      "id": 101,
+      "tech_cost": 0,
+      "name": "Feudal Age",
+      "building": "Town Center"
+    },
+    {
+      "id": 102,
+      "tech_cost": 0,
+      "name": "Castle Age",
+      "building": "Town Center"
+    },
+    {
+      "id": 103,
+      "tech_cost": 0,
+      "name": "Imperial Age",
+      "building": "Town Center"
+    },
+    {
+      "id": 140,
+      "tech_cost": 1,
+      "name": "Guard Tower",
+      "building": "University"
+    },
+    {
+      "id": 182,
+      "tech_cost": 4,
+      "name": "Gold Shaft Mining",
+      "building": "Mining Camp"
+    },
+    {
+      "id": 194,
+      "tech_cost": 1,
+      "name": "Fortified Wall",
+      "building": "University"
+    },
+    {
+      "id": 199,
+      "tech_cost": 1,
+      "name": "Fletching",
+      "building": "Blacksmith",
+      "benefits": ["Archery Range",""]
+    },
+    {
+      "id": 200,
+      "tech_cost": 3,
+      "name": "Bodkin Arrow",
+      "building": "Blacksmith",
+      "benefits": ["Archery Range",""]
+    },
+    {
+      "id": 201,
+      "tech_cost": 8,
+      "name": "Bracer",
+      "building": "Blacksmith",
+      "benefits": ["Archery Range",""]
+    },
+    {
+      "id": 202,
+      "tech_cost": 10,
+      "name": "Double-Bit Axe",
+      "building": "Lumber Camp"
+    },
+    {
+      "id": 203,
+      "tech_cost": 6,
+      "name": "Bow Saw",
+      "building": "Lumber Camp"
+    },
+    {
+      "id": 211,
+      "tech_cost": 1,
+      "name": "Padded Archer Armor",
+      "building": "Blacksmith",
+      "benefits": ["Archery Range",""]
+    },
+    {
+      "id": 212,
+      "tech_cost": 3,
+      "name": "Leather Archer Armor",
+      "building": "Blacksmith",
+      "benefits": ["Archery Range",""]
+    },
+    {
+      "id": 213,
+      "tech_cost": 12,
+      "name": "Wheelbarrow",
+      "building": "Town Center"
+    },
+    {
+      "id": 215,
+      "tech_cost": 2,
+      "name": "Squires",
+      "building": "Barracks"
+    },
+    {
+      "id": 219,
+      "tech_cost": 6,
+      "name": "Ring Archer Armor",
+      "building": "Blacksmith",
+      "benefits": ["Archery Range",""]
+    },
+    {
+      "id": 221,
+      "tech_cost": 2,
+      "name": "Two-Man Saw",
+      "building": "Lumber Camp"
+    },
+    {
+      "id": 230,
+      "tech_cost": 2,
+      "name": "Block Printing",
+      "building": "Monastery"
+    },
+    {
+      "id": 231,
+      "tech_cost": 1,
+      "name": "Sanctity",
+      "building": "Monastery"
+    },
+    {
+      "id": 233,
+      "tech_cost": 2,
+      "name": "Illumination",
+      "building": "Monastery"
+    },
+    {
+      "id": 249,
+      "tech_cost": 6,
+      "name": "Hand Cart",
+      "building": "Town Center"
+    },
+    {
+      "id": 252,
+      "tech_cost": 1,
+      "name": "Fervor",
+      "building": "Monastery"
+    },
+    {
+      "id": 278,
+      "tech_cost": 4,
+      "name": "Stone Mining",
+      "building": "Mining Camp"
+    },
+    {
+      "id": 279,
+      "tech_cost": 3,
+      "name": "Stone Shaft Mining",
+      "building": "Mining Camp"
+    },
+    {
+      "id": 280,
+      "tech_cost": 1,
+      "name": "Town Patrol",
+      "building": "Town Center"
+    },
+    {
+      "id": 315,
+      "tech_cost": 2,
+      "name": "Conscription",
+      "building": "Castle"
+    },
+    {
+      "id": 316,
+      "tech_cost": 2,
+      "name": "Redemption",
+      "building": "Monastery"
+    },
+    {
+      "id": 319,
+      "tech_cost": 1,
+      "name": "Atonement",
+      "building": "Monastery"
+    },
+    {
+      "id": 321,
+      "tech_cost": 1,
+      "name": "Sappers",
+      "building": "Castle"
+    },
+    {
+      "id": 322,
+      "tech_cost": 1,
+      "name": "Murder Holes",
+      "building": "University"
+    },
+    {
+      "id": 373,
+      "tech_cost": 3,
+      "name": "Shipwright",
+      "building": "Dock"
+    },
+    {
+      "id": 374,
+      "tech_cost": 2,
+      "name": "Careening",
+      "building": "Dock"
+    },
+    {
+      "id": 375,
+      "tech_cost": 2,
+      "name": "Dry Dock",
+      "building": "Dock"
+    },
+    {
+      "id": 377,
+      "tech_cost": 7,
+      "name": "Siege Engineers",
+      "building": "University"
+    },
+    {
+      "id": 379,
+      "tech_cost": 1,
+      "name": "Hoardings",
+      "building": "Castle"
+    },
+    {
+      "id": 380,
+      "tech_cost": 1,
+      "name": "Heated Shot",
+      "building": "University"
+    },
+    {
+      "id": 408,
+      "tech_cost": 0,
+      "name": "Spies/Treason",
+      "building": "Castle"
+    },
+    {
+      "id": 435,
+      "tech_cost": 7,
+      "name": "Bloodlines",
+      "building": "Stable"
+    },
+    {
+      "id": 436,
+      "tech_cost": 3,
+      "name": "Parthian Tactics",
+      "building": "Archery Range"
+    },
+    {
+      "id": 437,
+      "tech_cost": 7,
+      "name": "Thumb Ring",
+      "building": "Archery Range"
+    },
+    {
+      "id": 438,
+      "tech_cost": 2,
+      "name": "Theocracy",
+      "building": "Monastery"
+    },
+    {
+      "id": 439,
+      "tech_cost": 1,
+      "name": "Heresy",
+      "building": "Monastery"
+    },
+    {
+      "id": 441,
+      "tech_cost": 1,
+      "name": "Herbal Medicine",
+      "building": "Monastery"
+    },
+    {
+      "id": 602,
+      "tech_cost": 1,
+      "name": "Arson",
+      "building": "Barracks"
+    },
+    {
+      "id": 608,
+      "tech_cost": 1,
+      "name": "Arrowslits",
+      "building": "University"
+    },
+    {
+      "id": 716,
+      "tech_cost": 2,
+      "name": "Supplies",
+      "building": "Barracks"
+    },
+    {
+      "id": 875,
+      "tech_cost": 2,
+      "name": "Gambesons",
+      "building": "Barracks"
+    }
+  ]
+}
